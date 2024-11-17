@@ -1,0 +1,1 @@
+Use as Teclas Cima, Baixo, Direita e Esquerda ou W, A, S e D para mover as peças do Tetris. Use R para rotacionar as peças do tetris. Use barra de espaço para a peça cair rapidamente.
